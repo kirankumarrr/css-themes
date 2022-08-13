@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "autoprefixer": "^10.4.8",
+    "browser-sync": "^2.27.10",
+    "cssnano": "^5.1.13",
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-terser": "^2.1.0",
+    "postcss": "^8.4.16",
+    "sass": "^1.54.4",
+    "scss": "^0.2.4"
+  },
+  "name": "dark-light-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
